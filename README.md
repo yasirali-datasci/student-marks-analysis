@@ -16,6 +16,10 @@ It reads data from a CSV file, calculates average marks, finds high scorers, and
 
 ---
 
+## 📊 High Scorers Students Graph
+
+![High Scorer Students](./graph.png)
+
 ## 🔧 Technologies Used
 
 - Python 3
