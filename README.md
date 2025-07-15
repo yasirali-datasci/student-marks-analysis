@@ -20,7 +20,7 @@ It reads data from a CSV file, calculates average marks, finds high scorers, and
 
 This chart shows the marks of each student for visual comparison.
 
-![Student Marks Graph](graph.png)
+![Student Marks Graph](mark_chart.png)
 
 ---
 
