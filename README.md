@@ -1,70 +1,49 @@
-# 📚 Student Marks Analysis using Python & Pandas
+# 📘 Student Marks Analysis
 
-This beginner-friendly data analysis project reads student marks from a CSV file, filters high scoring students, performs basic statistics, and visualizes the results using Python libraries.
-
-📌 **Skills Demonstrated:**
-- Reading and filtering data using **Pandas**
-- Calculating average and maximum marks
-- Writing filtered data to a new CSV file
-- Creating a **bar chart visualization** using **Matplotlib**
-- Saving analysis results
+This project performs a basic analysis on student marks using Python, Pandas, and Matplotlib.  
+It reads data from a CSV file, calculates average marks, finds high scorers, and generates a summary with visualization.
 
 ---
 
-## 📂 Project Files
+## 📁 Files Included
 
-| File | Description |
-|------|-------------|
-| `student.csv` | Original dataset of student names and their marks |
-| `marks_analysis.ipynb` | Jupyter Notebook with full analysis code |
-| `high_scorers.csv` | Filtered data of students who scored above 80 |
-| `marks_chart.png` | Visualization of marks using a bar chart |
-| `README.md` | This file explaining the entire project |
-
----
-
-## 📈 Output Screenshot
-
-![Student Marks Bar Chart](marks_chart.png)
+| File Name               | Description |
+|------------------------|-------------|
+| `student.csv`           | Original dataset of student names and marks |
+| `high_scorers.csv`      | Filtered students who scored above 80 |
+| `student_analysis.ipynb`| Jupyter Notebook with full analysis code |
+| `graph.png`             | Bar chart showing marks distribution |
 
 ---
 
-## 💡 Features Covered
+## 🔧 Technologies Used
 
-- ✅ Read CSV file using `pandas`
-- ✅ Calculate average and highest marks
-- ✅ Filter students with marks > 80
-- ✅ Save filtered data into a new CSV
-- ✅ Create a bar chart of all student marks
-- ✅ Clean, well-documented Jupyter notebook
+- Python 3
+- Pandas (for data manipulation)
+- Matplotlib (for visualization)
+- Jupyter Notebook
 
 ---
 
-## 🔍 Sample Code Output
+## 🎯 Features
 
-```python
-Total students: 10
-Average marks: 78.6
-High Scorers:
-     name  marks
-2   Ayesha     91
-5     Zain     85
-9    Saira     89
+- Calculate total students and average marks
+- Identify students scoring above a certain threshold
+- Visualize student performance in a bar chart
+- Export filtered data to a new CSV file
 
-🔧 Tech Stack
-Python 3
+---
 
-Pandas
+## 💡 What I Learned
 
-Matplotlib
+- Working with CSV files in Pandas
+- Filtering and analyzing data with conditions
+- Visualizing data using bar plots
+- File writing and basic data science structure
 
-Jupyter Notebook
+---
 
-👨‍💻 Author
-Yasir Ali
-Aspiring Data Scientist | HSC CS Student
-GitHub: github.com/yasirali-datasci
+## 👨‍💻 Author
 
-🏷️ Tags
-#python #pandas #matplotlib #csv #data-analysis #student-marks
-#jupyter-notebook #beginner-project #yasirali #datascience-project
+**Yasir Ali**  
+Aspiring Data Scientist | [GitHub](https://github.com/yasirali-datasci)
