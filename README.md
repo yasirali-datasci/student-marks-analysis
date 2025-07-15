@@ -16,9 +16,13 @@ It reads data from a CSV file, calculates average marks, finds high scorers, and
 
 ---
 
-## 📊 High Scorers Students Graph
+## 📊 Output Graph Preview
 
-![High Scorer Students](./graph.png)
+This chart shows the marks of each student for visual comparison.
+
+![Student Marks Graph](graph.png)
+
+---
 
 ## 🔧 Technologies Used
 
